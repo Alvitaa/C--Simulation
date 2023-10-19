@@ -1,0 +1,60 @@
+C:\Users\flash\Desktop\app\bin\Debug\net6.0\app.exe
+C:\Users\flash\Desktop\app\bin\Debug\net6.0\app.deps.json
+C:\Users\flash\Desktop\app\bin\Debug\net6.0\app.runtimeconfig.json
+C:\Users\flash\Desktop\app\bin\Debug\net6.0\app.dll
+C:\Users\flash\Desktop\app\bin\Debug\net6.0\app.pdb
+C:\Users\flash\Desktop\app\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+C:\Users\flash\Desktop\app\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flash\Desktop\app\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+C:\Users\flash\Desktop\app\obj\Debug\net6.0\app.AssemblyInfo.cs
+C:\Users\flash\Desktop\app\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+C:\Users\flash\Desktop\app\obj\Debug\net6.0\app.dll
+C:\Users\flash\Desktop\app\obj\Debug\net6.0\refint\app.dll
+C:\Users\flash\Desktop\app\obj\Debug\net6.0\app.pdb
+C:\Users\flash\Desktop\app\obj\Debug\net6.0\app.genruntimeconfig.cache
+C:\Users\flash\Desktop\app\obj\Debug\net6.0\ref\app.dll
+C:\Users\flash\Desktop\Trabajo LP\bin\Debug\net6.0\app.exe
+C:\Users\flash\Desktop\Trabajo LP\bin\Debug\net6.0\app.deps.json
+C:\Users\flash\Desktop\Trabajo LP\bin\Debug\net6.0\app.runtimeconfig.json
+C:\Users\flash\Desktop\Trabajo LP\bin\Debug\net6.0\app.dll
+C:\Users\flash\Desktop\Trabajo LP\bin\Debug\net6.0\app.pdb
+C:\Users\flash\Desktop\Trabajo LP\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+C:\Users\flash\Desktop\Trabajo LP\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flash\Desktop\Trabajo LP\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+C:\Users\flash\Desktop\Trabajo LP\obj\Debug\net6.0\app.AssemblyInfo.cs
+C:\Users\flash\Desktop\Trabajo LP\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+C:\Users\flash\Desktop\Trabajo LP\obj\Debug\net6.0\app.dll
+C:\Users\flash\Desktop\Trabajo LP\obj\Debug\net6.0\refint\app.dll
+C:\Users\flash\Desktop\Trabajo LP\obj\Debug\net6.0\app.pdb
+C:\Users\flash\Desktop\Trabajo LP\obj\Debug\net6.0\app.genruntimeconfig.cache
+C:\Users\flash\Desktop\Trabajo LP\obj\Debug\net6.0\ref\app.dll
+C:\Users\flash\Desktop\Trabajo LP\Trabajo Csharp\bin\Debug\net6.0\app.exe
+C:\Users\flash\Desktop\Trabajo LP\Trabajo Csharp\bin\Debug\net6.0\app.deps.json
+C:\Users\flash\Desktop\Trabajo LP\Trabajo Csharp\bin\Debug\net6.0\app.runtimeconfig.json
+C:\Users\flash\Desktop\Trabajo LP\Trabajo Csharp\bin\Debug\net6.0\app.dll
+C:\Users\flash\Desktop\Trabajo LP\Trabajo Csharp\bin\Debug\net6.0\app.pdb
+C:\Users\flash\Desktop\Trabajo LP\Trabajo Csharp\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+C:\Users\flash\Desktop\Trabajo LP\Trabajo Csharp\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flash\Desktop\Trabajo LP\Trabajo Csharp\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+C:\Users\flash\Desktop\Trabajo LP\Trabajo Csharp\obj\Debug\net6.0\app.AssemblyInfo.cs
+C:\Users\flash\Desktop\Trabajo LP\Trabajo Csharp\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+C:\Users\flash\Desktop\Trabajo LP\Trabajo Csharp\obj\Debug\net6.0\app.dll
+C:\Users\flash\Desktop\Trabajo LP\Trabajo Csharp\obj\Debug\net6.0\refint\app.dll
+C:\Users\flash\Desktop\Trabajo LP\Trabajo Csharp\obj\Debug\net6.0\app.pdb
+C:\Users\flash\Desktop\Trabajo LP\Trabajo Csharp\obj\Debug\net6.0\app.genruntimeconfig.cache
+C:\Users\flash\Desktop\Trabajo LP\Trabajo Csharp\obj\Debug\net6.0\ref\app.dll
+C:\Users\tostadora\Documents\Juanjo\U de Lima\2022-2\Lenguajes de Programación\Trabajos Grupales\Trabajo-LP\Generación y Simulación de seres\bin\Debug\net6.0\app.exe
+C:\Users\tostadora\Documents\Juanjo\U de Lima\2022-2\Lenguajes de Programación\Trabajos Grupales\Trabajo-LP\Generación y Simulación de seres\bin\Debug\net6.0\app.deps.json
+C:\Users\tostadora\Documents\Juanjo\U de Lima\2022-2\Lenguajes de Programación\Trabajos Grupales\Trabajo-LP\Generación y Simulación de seres\bin\Debug\net6.0\app.runtimeconfig.json
+C:\Users\tostadora\Documents\Juanjo\U de Lima\2022-2\Lenguajes de Programación\Trabajos Grupales\Trabajo-LP\Generación y Simulación de seres\bin\Debug\net6.0\app.dll
+C:\Users\tostadora\Documents\Juanjo\U de Lima\2022-2\Lenguajes de Programación\Trabajos Grupales\Trabajo-LP\Generación y Simulación de seres\bin\Debug\net6.0\app.pdb
+C:\Users\tostadora\Documents\Juanjo\U de Lima\2022-2\Lenguajes de Programación\Trabajos Grupales\Trabajo-LP\Generación y Simulación de seres\obj\Debug\net6.0\app.csproj.AssemblyReference.cache
+C:\Users\tostadora\Documents\Juanjo\U de Lima\2022-2\Lenguajes de Programación\Trabajos Grupales\Trabajo-LP\Generación y Simulación de seres\obj\Debug\net6.0\app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tostadora\Documents\Juanjo\U de Lima\2022-2\Lenguajes de Programación\Trabajos Grupales\Trabajo-LP\Generación y Simulación de seres\obj\Debug\net6.0\app.AssemblyInfoInputs.cache
+C:\Users\tostadora\Documents\Juanjo\U de Lima\2022-2\Lenguajes de Programación\Trabajos Grupales\Trabajo-LP\Generación y Simulación de seres\obj\Debug\net6.0\app.AssemblyInfo.cs
+C:\Users\tostadora\Documents\Juanjo\U de Lima\2022-2\Lenguajes de Programación\Trabajos Grupales\Trabajo-LP\Generación y Simulación de seres\obj\Debug\net6.0\app.csproj.CoreCompileInputs.cache
+C:\Users\tostadora\Documents\Juanjo\U de Lima\2022-2\Lenguajes de Programación\Trabajos Grupales\Trabajo-LP\Generación y Simulación de seres\obj\Debug\net6.0\app.dll
+C:\Users\tostadora\Documents\Juanjo\U de Lima\2022-2\Lenguajes de Programación\Trabajos Grupales\Trabajo-LP\Generación y Simulación de seres\obj\Debug\net6.0\refint\app.dll
+C:\Users\tostadora\Documents\Juanjo\U de Lima\2022-2\Lenguajes de Programación\Trabajos Grupales\Trabajo-LP\Generación y Simulación de seres\obj\Debug\net6.0\app.pdb
+C:\Users\tostadora\Documents\Juanjo\U de Lima\2022-2\Lenguajes de Programación\Trabajos Grupales\Trabajo-LP\Generación y Simulación de seres\obj\Debug\net6.0\app.genruntimeconfig.cache
+C:\Users\tostadora\Documents\Juanjo\U de Lima\2022-2\Lenguajes de Programación\Trabajos Grupales\Trabajo-LP\Generación y Simulación de seres\obj\Debug\net6.0\ref\app.dll

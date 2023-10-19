@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xtA0NZHT3OyroeNO3Rv1iif8Btcyiy3wyJmE776RFQ1ni8PeGfF0NVgs/cudI1F89sohKKUaVo+s6jXEIu2KlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tostadora\\Documents\\Juanjo\\U de Lima\\2022-2\\Lenguajes de Programación\\Trabajos Grupales\\Trabajo-LP\\Generación y Simulación de seres\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tostadora\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\tostadora\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\tostadora\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\tostadora\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
